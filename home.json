@@ -1,116 +1,18 @@
 {
-  "version": 3,
+  "version": 1,
   "home": [
     {
       "type": "banner",
-      "image": "https://picsum.photos/900/300?random=1"
+      "image": "https://picsum.photos/800/300"
     },
-    {
-      "type": "banner",
-      "image": "https://picsum.photos/900/300?random=2"
-    },
-    {
-      "type": "banner",
-      "image": "https://picsum.photos/900/300?random=3"
-    },
-    {
-      "type": "banner",
-      "image": "https://picsum.photos/900/300?random=4"
-    },
-
-    {
-      "type": "slider",
-      "images": [
-        "https://picsum.photos/900/300?random=100",
-        "https://picsum.photos/900/300?random=101",
-        "https://picsum.photos/900/300?random=102"
-      ]
-    },
-
-    {
-      "type": "category",
-      "title": "Shop by Category",
-      "items": [
-        { "id": 201, "name": "Men", "image": "https://picsum.photos/200?random=201" },
-        { "id": 202, "name": "Women", "image": "https://picsum.photos/200?random=202" },
-        { "id": 203, "name": "Kids", "image": "https://picsum.photos/200?random=203" },
-        { "id": 204, "name": "Electronics", "image": "https://picsum.photos/200?random=204" },
-        { "id": 205, "name": "Beauty", "image": "https://picsum.photos/200?random=205" }
-      ]
-    },
-
-    {
-      "type": "flash_sale",
-      "title": "Flash Sale Now!",
-      "timer": "2026-12-31T18:00:00",
-      "items": [
-        { "id": 3010, "name": "Smart Watch", "image": "https://picsum.photos/250?random=501", "price": 1499 },
-        { "id": 3011, "name": "Earbuds", "image": "https://picsum.photos/250?random=502", "price": 899 },
-        { "id": 3012, "name": "Mini Speaker", "image": "https://picsum.photos/250?random=503", "price": 599 }
-      ]
-    },
-
     {
       "type": "collection",
       "title": "Trending Now",
       "layout": "grid",
       "items": [
-        { "id": 1, "name": "Dress", "image": "https://picsum.photos/300?random=31", "price": 999 },
-        { "id": 2, "name": "Shoes", "image": "https://picsum.photos/300?random=32", "price": 1299 },
-        { "id": 3, "name": "T-Shirt", "image": "https://picsum.photos/300?random=33", "price": 499 },
-        { "id": 4, "name": "Jeans", "image": "https://picsum.photos/300?random=34", "price": 899 },
-        { "id": 5, "name": "Saree", "image": "https://picsum.photos/300?random=35", "price": 1599 },
-        { "id": 6, "name": "Kurti", "image": "https://picsum.photos/300?random=36", "price": 799 }
+        { "id": 1, "name": "Dress", "image": "https://picsum.photos/300", "price": 999 },
+        { "id": 2, "name": "Shoes", "image": "https://picsum.photos/301", "price": 1299 }
       ]
-    },
-
-    {
-      "type": "offers",
-      "title": "Top Deals for You",
-      "items": [
-        { "id": 301, "name": "Makeup Kit", "image": "https://picsum.photos/200?random=41", "price": 599 },
-        { "id": 302, "name": "Water Bottle", "image": "https://picsum.photos/200?random=42", "price": 199 },
-        { "id": 303, "name": "Laptop Stand", "image": "https://picsum.photos/200?random=43", "price": 399 },
-        { "id": 304, "name": "Phone Case", "image": "https://picsum.photos/200?random=44", "price": 149 },
-        { "id": 305, "name": "Desk Lamp", "image": "https://picsum.photos/200?random=45", "price": 349 }
-      ]
-    },
-
-    {
-      "type": "collection",
-      "title": "New Arrivals",
-      "layout": "horizontal",
-      "items": [
-        { "id": 501, "name": "Kurti", "image": "https://picsum.photos/200?random=51", "price": 699 },
-        { "id": 502, "name": "Denim Jacket", "image": "https://picsum.photos/200?random=52", "price": 1699 },
-        { "id": 503, "name": "Backpack", "image": "https://picsum.photos/200?random=53", "price": 749 },
-        { "id": 504, "name": "Travel Bag", "image": "https://picsum.photos/200?random=54", "price": 1299 }
-      ]
-    },
-
-    {
-      "type": "collection",
-      "title": "Best Sellers",
-      "layout": "horizontal",
-      "items": [
-        { "id": 801, "name": "Sneakers", "image": "https://picsum.photos/200?random=81", "price": 1199 },
-        { "id": 802, "name": "Watch", "image": "https://picsum.photos/200?random=82", "price": 999 },
-        { "id": 803, "name": "Perfume", "image": "httpsum.photos/200?random=83", "price": 499 }
-      ]
-    },
-
-    {
-      "type": "recently_viewed",
-      "title": "Recently Viewed",
-      "items": [
-        { "id": 901, "name": "Bluetooth Speaker", "image": "https://picsum.photos/200?random=91", "price": 1099 },
-        { "id": 902, "name": "Notebook", "image": "https://picsum.photos/200?random=92", "price": 149 }
-      ]
-    },
-
-    {
-      "type": "footer",
-      "text": "Thank you for shopping! More surprises are coming soon."
     }
   ]
 }
