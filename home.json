@@ -11,16 +11,6 @@
     },
 
     {
-      "type": "flash_sale",
-      "title": "Flash Sale Ends Soon!",
-      "timer": "2026-03-24T18:00:00",
-      "items": [
-        { "id": 101, "name": "Smart Watch", "image": "https://picsum.photos/200?random=11", "price": 1499 },
-        { "id": 102, "name": "Bluetooth Earbuds", "image": "https://picsum.photos/200?random=12", "price": 999 }
-      ]
-    },
-
-    {
       "type": "category",
       "title": "Shop by Category",
       "items": [
