@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "home": [
+    {
+      "type": "banner",
+      "image": "https://picsum.photos/800/300"
+    },
+    {
+      "type": "collection",
+      "title": "Trending Now",
+      "layout": "grid",
+      "items": [
+        { "id": 1, "name": "Dress", "image": "https://picsum.photos/300", "price": 999 },
+        { "id": 2, "name": "Shoes", "image": "https://picsum.photos/301", "price": 1299 }
+      ]
+    }
+  ]
+}
