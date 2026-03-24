@@ -1,103 +1,18 @@
 {
-  "version": 5,
+  "version": 1,
   "home": [
     {
-      "type": "slider",
-      "images": [
-        "https://picsum.photos/900/300?random=100",
-        "https://picsum.photos/900/300?random=101"
-      ]
-    },
-
-    {
       "type": "banner",
-      "image": "https://picsum.photos/900/300?random=10"
+      "image": "https://picsum.photos/800/300"
     },
-    {
-      "type": "banner",
-      "image": "https://picsum.photos/900/300?random=11"
-    },
-
-    {
-      "type": "category",
-      "title": "Shop by Category",
-      "items": [
-        { "id": 1001, "name": "Men", "image": "https://picsum.photos/200?random=201" },
-        { "id": 1002, "name": "Women", "image": "https://picsum.photos/200?random=202" },
-        { "id": 1003, "name": "Kids", "image": "https://picsum.photos/200?random=203" },
-        { "id": 1004, "name": "Electronics", "image": "https://picsum.photos/200?random=204" },
-        { "id": 1005, "name": "Beauty", "image": "https://picsum.photos/200?random=205" }
-      ]
-    },
-
-    {
-      "type": "flash_sale",
-      "title": "Flash Sale - Limited Time!",
-      "timer": "2026-08-01T18:00:00",
-      "items": [
-        { "id": 2001, "name": "Smart Watch", "image": "https://picsum.photos/300?random=301", "price": 1499 },
-        { "id": 2002, "name": "Earbuds", "image": "https://picsum.photos/300?random=302", "price": 999 },
-        { "id": 2003, "name": "Fit Band", "image": "https://picsum.photos/300?random=303", "price": 799 }
-      ]
-    },
-
     {
       "type": "collection",
-      "title": "Trending Styles",
+      "title": "Trending Now",
       "layout": "grid",
       "items": [
-        { "id": 3001, "name": "T‑Shirt", "image": "https://picsum.photos/300?random=401", "price": 499 },
-        { "id": 3002, "name": "Jeans", "image": "httpsum.photos/300?random=402", "price": 899 },
-        { "id": 3003, "name": "Sneakers", "image": "https://picsum.photos/300?random=403", "price": 1299 },
-        { "id": 3004, "name": "Kurti", "image": "https://picsum.photos/300?random=404", "price": 699 }
+        { "id": 1, "name": "Dress", "image": "https://picsum.photos/300", "price": 999 },
+        { "id": 2, "name": "Shoes", "image": "https://picsum.photos/301", "price": 1299 }
       ]
-    },
-
-    {
-      "type": "offers",
-      "title": "Mega Deals",
-      "items": [
-        { "id": 4001, "name": "Makeup Kit", "image": "https://picsum.photos/250?random=501", "price": 599 },
-        { "id": 4002, "name": "Water Bottle", "image": "https://picsum.photos/250?random=502", "price": 199 },
-        { "id": 4003, "name": "Table Lamp", "image": "https://picsum.photos/250?random=503", "price": 349 },
-        { "id": 4004, "name": "Notebook", "image": "https://picsum.photos/250?random=504", "price": 149 }
-      ]
-    },
-
-    {
-      "type": "collection",
-      "title": "New Arrivals",
-      "layout": "horizontal",
-      "items": [
-        { "id": 5001, "name": "Sunglasses", "image": "https://picsum.photos/250?random=601", "price": 399 },
-        { "id": 5002, "name": "Backpack", "image": "https://picsum.photos/250?random=602", "price": 749 },
-        { "id": 5003, "name": "Wireless Charger", "image": "https://picsum.photos/250?random=603", "price": 899 },
-        { "id": 5004, "name": "Wallet", "image": "https://picsum.photos/250?random=604", "price": 299 }
-      ]
-    },
-
-    {
-      "type": "recommended",
-      "title": "Recommended For You",
-      "items": [
-        { "id": 6001, "name": "Shampoo", "image": "https://picsum.photos/300?random=701", "price": 199 },
-        { "id": 6002, "name": "Hair Dryer", "image": "https://picsum.photos/300?random=702", "price": 1299 },
-        { "id": 6003, "name": "Room Freshener", "image": "https://picsum.photos/300?random=703", "price": 149 }
-      ]
-    },
-
-    {
-      "type": "recently_viewed",
-      "title": "Recently Viewed",
-      "items": [
-        { "id": 7001, "name": "Bluetooth Speaker", "image": "https://picsum.photos/300?random=801", "price": 1099 },
-        { "id": 7002, "name": "Notebook", "image": "https://picsum.photos/300?random=802", "price": 129 }
-      ]
-    },
-
-    {
-      "type": "footer",
-      "text": "Thanks for visiting! More offers coming soon."
     }
   ]
 }
