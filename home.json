@@ -10,16 +10,7 @@
       "image": "https://picsum.photos/900/300?random=2"
     },
 
-    {
-      "type": "category",
-      "title": "Shop by Category",
-      "items": [
-        { "id": 201, "name": "Fashion", "image": "https://picsum.photos/200?random=21" },
-        { "id": 202, "name": "Electronics", "image": "https://picsum.photos/200?random=22" },
-        { "id": 203, "name": "Beauty", "image": "httpsum.photos/200?random=23" },
-        { "id": 204, "name": "Home", "image": "https://picsum.photos/200?random=24" }
-      ]
-    },
+    
 
     {
       "type": "collection",
