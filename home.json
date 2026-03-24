@@ -12,7 +12,8 @@
       "items": [
         { "id": 1, "name": "Dress", "image": "https://picsum.photos/300", "price": 999 },
         { "id": 2, "name": "Shoes", "image": "https://picsum.photos/301", "price": 1299 },
-         { "id": 3, "name": "Shoes", "image": "https://picsum.photos/301", "price": 1299 }
+         { "id": 3, "name": "Shoes", "image": "https://picsum.photos/301", "price": 1299 },
+         { "id": 4, "name": "Shoes", "image": "https://picsum.photos/301", "price": 3299 }
       ]
     }
   ]
